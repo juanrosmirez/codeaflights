@@ -31,3 +31,16 @@
     transform: rotate(360deg);
   }
 }
+
+.button {
+  background-color: orange; /* orange */
+  border: none;
+  color: white;
+  padding: 5px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 30px;
+  border-radius: 8px;
+} 

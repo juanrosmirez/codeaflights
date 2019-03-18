@@ -1,0 +1,19 @@
+	
+.imagen:hover {
+    filter: opacity(.7);
+}
+
+.container {
+    position: relative;
+    color: white;
+  }
+
+.bottom-left {
+    position: absolute;
+    top: 20px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+  }
